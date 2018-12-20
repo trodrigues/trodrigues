@@ -1,20 +1,20 @@
 {
-  "name": "bitandbang",
-  "version": "1.1.0",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "name": "trodrigues",
+  "version": "1.0.0",
+  "description": "A personal card for Tiago Rodrigues (@trodrigues)",
   "main": "index.js",
   "bin": {
-    "bitandbang": "./bin/card.js"
+    "trodrigues": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bnb/bitandbang.git"
+    "url": "https://github.com/trodrigues/trodrigues.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Tiago Rodrigues <hello@trodrigues.net> (https://trodrigues.net)",
   "license": "MIT",
   "dependencies": {
     "boxen": "^2.1.0",
